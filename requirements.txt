@@ -1,0 +1,21 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4 #beautiful soup
+arxiv # for loading research paper based on query number
+pymupdf # for loading arxiv query
+wikipedia # for wikipedia loading
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers  # in this library the embedding technique is available(in HuggingFace)
+langchain_huggingface  # langchain and huggingface combined to form library
+faiss-cpu
+langchain_chroma  ##(chromadb) lagnchain also provide chroma
+streamlit
+langchain_groq
+langchain_core
+langserve
+uvicorn
